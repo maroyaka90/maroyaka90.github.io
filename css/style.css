@@ -29,7 +29,7 @@ ul{
 }
 /*--header--*/
 .banner{
-	background:url(../images/banner.jpg);
+	background:url(../images/banner_compressed.jpg);
 	background-size:cover;
 	min-height: 800px;
 }
