@@ -32,6 +32,8 @@ ul{
 	background:url(../images/banner_compressed.jpg);
 	background-size:cover;
 	min-height: 800px;
+  max-width:100%;
+  max-height:100%;
 }
 .banner-top {
   text-align: center;
@@ -170,6 +172,17 @@ ul{
   color: #000000;
   font-weight: 700;
   width: 56%;
+  margin: 0 auto;
+  padding: 1.5em 0 1.5em;
+  line-height: 1.7em;
+  border-bottom: 1px solid#D7D7D7;
+  }
+.music-info p {
+  text-align: center;
+  font-size: 1.46em;
+  color: #000000;
+  font-weight: 700;
+  width: 100%;
   margin: 0 auto;
   padding: 1.5em 0 1.5em;
   line-height: 1.7em;
@@ -808,10 +821,10 @@ textarea {
 	  width: 61%;
 	}
 	.portfolio-info p {
-	  width: 67%;
+	  width: 56%;
 	}
 	.portfolio-info p {
-	  width: 67%;
+	  width: 56%;
 	}
 	.about-info p {
 	  width: 66%;
@@ -901,7 +914,7 @@ textarea {
 	     padding: 3em 0;
 	}
 	.portfolio-info p {
-		  width: 100%;
+		  width: 56%;
 		  font-size: 1.1em;
 		  line-height: 1.7em;
 		  font-weight: 400;
