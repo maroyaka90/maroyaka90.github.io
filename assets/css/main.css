@@ -2429,7 +2429,14 @@
 				#footer .copyright a:hover {
 					color: rgba(212, 212, 212, 0.85);
 				}
+#footer h2{
+	color:#fff;
+			text-align: center;
 
+			font-size: 1.2em;
+			cursor: default;
+		
+				}
 /* Carousel */
 
 	.carousel {
